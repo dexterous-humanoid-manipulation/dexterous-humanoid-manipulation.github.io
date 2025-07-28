@@ -203,7 +203,7 @@ highlight {
   </tr>
 </table>
 
-<div style="height: 16px;"></div>
+<hr>
 
 <table align=center width=800px>
   <tr>
