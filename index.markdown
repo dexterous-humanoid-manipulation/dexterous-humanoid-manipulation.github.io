@@ -150,6 +150,11 @@ a {
 }
 </style>
 
+<style>
+html {
+    scroll-behavior: smooth;
+}
+</style>
 
 <style>
 highlight {
@@ -167,19 +172,39 @@ highlight {
         <h1 align="left">
           <strong>Dexterous Humanoid Manipulation Workshop</strong>
         </h1>
-        <h3> <a href="https://2025humanoids.org/">2025 IEEE-RAS 24th International Conference on Humanoid Robots</a></h3>
-        <h3>October 2, 2025 | COEX, Seoul, Korea</h3>
+        <h3> <a href="https://2025humanoids.org/"><b>2025 IEEE-RAS 24th International Conference on Humanoid Robots</b></a></h3>
+        <h3>October 2, 2025 | COEX, Seoul, Korea | Room #211</h3>
       </p>
     </td>
   </tr>
 </table>
 
-<hr>
+<table align=center width=800px>
+  <tr>
+    <td>
+      <a href="#submission" style="color:#363624;">
+        Paper Submission
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#program" style="color:#363624;">
+        Program Schedule
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#speakers" style="color:#363624;">
+        Invited Speakers
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#organizers" style="color:#363624;">
+        Organizers
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table align=center width=800px>
   <tr>
     <td>
-      <h2>Overview</h2>
+      <h2 id="overview">Overview</h2>
     </td>
   </tr>
   <tr>
@@ -198,7 +223,7 @@ highlight {
 <table align=center width=800px>
 <tr>
   <td>
-    <h2>Paper Submission Guidelines</h2>
+    <h2 id="submission">Paper Submission Guidelines</h2>
   </td>
 </tr>
 <tr>
@@ -279,7 +304,7 @@ highlight {
 <table align=center width=800px>
 <tr>
   <td>
-    <h2>Program Schedule</h2>
+    <h2 id="program">Program Schedule</h2>
   </td>
 </tr>
 <tr>
@@ -297,7 +322,7 @@ highlight {
 <table align=center width=800px>
   <tr>
     <td> 
-      <h2>Invited Speakers</h2>
+      <h2 id="speakers">Invited Speakers</h2>
     </td>
   </tr>
   <tr>
@@ -369,7 +394,7 @@ highlight {
 <table align=center width=800px>
   <tr>
     <td> 
-      <h2>Organizers</h2>
+      <h2 id="organizers">Organizers</h2>
     </td>
   </tr>
   <tr>
