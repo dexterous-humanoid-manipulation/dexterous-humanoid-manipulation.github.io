@@ -179,27 +179,31 @@ highlight {
   </tr>
 </table>
 
+<div style="height: 16px;"></div>
+
 <table align=center width=800px>
   <tr>
     <td>
-      <a href="#submission" style="color:#363624;">
+      <a href="#submission" style="color:#484824;">
         Paper Submission
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="#program" style="color:#363624;">
+      <a href="#program" style="color:#484824;">
         Program Schedule
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="#speakers" style="color:#363624;">
+      <a href="#speakers" style="color:#484824;">
         Invited Speakers
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="#organizers" style="color:#363624;">
+      <a href="#organizers" style="color:#484824;">
         Organizers
       </a>
     </td>
   </tr>
 </table>
+
+<div style="height: 16px;"></div>
 
 <table align=center width=800px>
   <tr>
