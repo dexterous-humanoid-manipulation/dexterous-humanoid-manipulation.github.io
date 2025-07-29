@@ -341,6 +341,13 @@ highlight {
       </p>
     </td>
     <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/jpark.jpg">
+      <p align=center>
+      <a href="http://dyros.snu.ac.kr/team/jaeheung-park">Jaeheung Park</a><br>
+      Seoul National University<br>
+      </p>
+    </td>
+    <td width=150px> 
       <img class="profile" src="./src/figure/speakers/jhurst.jpg">
       <p align=center>
       <a href="https://mime.engineering.oregonstate.edu/research/drl">Jonathan Hurst</a><br>
@@ -353,14 +360,6 @@ highlight {
       <p align=center>
       <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
       UMD <br>
-      (tentative)
-      </p>
-    </td>
-    <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/jpark.jpg">
-      <p align=center>
-      <a href="http://dyros.snu.ac.kr/team/jaeheung-park">Jaeheung Park</a><br>
-      Seoul National University<br>
       (tentative)
       </p>
     </td>
