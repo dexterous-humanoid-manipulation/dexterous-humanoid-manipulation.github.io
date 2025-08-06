@@ -34,25 +34,18 @@ categories: projects
 </script>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const videos = document.querySelectorAll('video.lazy-video');
-    
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.play();
-        } else {
-          entry.target.pause();
-        }
-      });
-    }, {
-      threshold: 0.5 // Adjust this as needed (0.5 means 50% of the video must be visible)
-    });
-    
-    videos.forEach(video => {
-      observer.observe(video);
-    });
+window.addEventListener("load", function () {
+  const sections = document.querySelectorAll('.section-container');
+
+  sections.forEach(section => {
+    const background = section.querySelector('.section-background');
+    const content = section.querySelector('.section-content');
+
+    if (background && content) {
+      background.style.height = content.offsetHeight + "px";
+    }
   });
+});
 </script>
 
 <script>
@@ -155,30 +148,23 @@ highlight {
   text-decoration: none;
   font-weight: 500;
 }
-.full-width-section {
+.section-container {
   position: relative;
   width: 100%;
-  overflow: hidden; /* ensures background does not overflow */
-}
-.section-container {
-    position: relative;
-    left: 0;
-    width: 100%;
-    margin: 0 auto;
-}
-.section-container table {
-    position: relative;
-    z-index: 1;
 }
 .section-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 0;
-    pointer-events: none;
-  }
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100vw;
+  z-index: 0;
+  pointer-events: none;
+}
+.section-content {
+  position: relative;
+  z-index: 1;
+}
 </style>
 
 </head>
@@ -186,9 +172,9 @@ highlight {
 <body data-gr-c-s-loaded="true">
 
 <div id="primarycontent">
-<div class="full-width-section">
-<div class="section-background" style="background-color: #f9ffe7ff;"></div>
 <div class="section-container">
+<div class="section-background" style="background-color: #ebffe7ff;"></div>
+<div class="section-content">
 <div style="height: 4px;"></div>
 <table align=center width=800px>
   <tr>
@@ -227,11 +213,11 @@ highlight {
     </td>
   </tr>
 </table>
+<hr>
+</div>
+</div>
 
 <div style="height: 16px;"></div>
-</div>
-</div>
-
 <table align=center width=800px>
   <tr>
     <td>
@@ -348,9 +334,9 @@ highlight {
 </table>
 <hr>
 
-<div class="full-width-section">
-<div class="section-background" style="background-color: #E4F8D6;"></div>
 <div class="section-container">
+<div class="section-background" style="background-color: #E4F8D6;"></div>
+<div class="section-content">
 <div style="height: 16px;"></div>
 <table align=center width=800px>
   <tr>
