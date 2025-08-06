@@ -16,7 +16,8 @@ categories: projects
 
 <meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
 <meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
-<meta property="og:image" content="https://github.com/dexterous-humanoid-manipulation/dexterous-humanoid-manipulation.github.io/blob/current/src/figure/humanoids2025_logo.png?raw=true">
+<meta property="og:image" content="https://dexterous-humanoid-manipulation.github.io/src/figure/humanoids2025_logo.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/dexterous-humanoid-manipulation/dexterous-humanoid-manipulation.github.io/current/src/figure/humanoids2025_logo.png">
 <meta property="og:image:width" content="880">
 <meta property="og:image:height" content="220">
 
