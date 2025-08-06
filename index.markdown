@@ -11,14 +11,16 @@ categories: projects
 <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Dexterous Humanoid Manipulation Workshop @ Humanoids 2025</title>
 
-<meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
-<meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
-<meta property="og:image" content="https://github.com/dexterous-humanoid-manipulation/dexterous-humanoid-manipulation.github.io/blob/current/src/figure/humanoids2025_logo.png?raw=true">
-<meta property="og:image:width" content="880">
-<meta property="og:image:height" content="220">
+  <meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
+  <meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
+  <meta property="og:image" content="https://raw.githubusercontent.com/dexterous-humanoid-manipulation/dexterous-humanoid-manipulation.github.io/current/src/figure/humanoids2025_logo.png">
+  <meta property="og:image:width" content="880">
+  <meta property="og:image:height" content="220">
+  <meta property="og:url" content="https://dexterous-humanoid-manipulation.github.io/">
 
 <script src="./src/popup.js" type="text/javascript"></script>
 <script src="https://kit.fontawesome.com/ef67f68cfb.js" crossorigin="anonymous"></script>
