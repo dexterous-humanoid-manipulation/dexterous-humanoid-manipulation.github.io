@@ -171,10 +171,10 @@ highlight {
 
 <body data-gr-c-s-loaded="true">
 
-<div id="primarycontent">
 <div class="section-container">
 <div class="section-background" style="background-color: #ebffe7ff;"></div>
 <div class="section-content">
+<div id="primarycontent">
 <div style="height: 4px;"></div>
 <table align=center width=800px>
   <tr>
@@ -216,7 +216,9 @@ highlight {
 <hr>
 </div>
 </div>
+</div>
 
+<div id="primarycontent">
 <div style="height: 16px;"></div>
 <table align=center width=800px>
   <tr>
@@ -333,10 +335,12 @@ highlight {
 </tr>
 </table>
 <hr>
+</div>
 
 <div class="section-container">
 <div class="section-background" style="background-color: #E4F8D6;"></div>
 <div class="section-content">
+<div id="primarycontent">
 <div style="height: 16px;"></div>
 <table align=center width=800px>
   <tr>
