@@ -162,6 +162,8 @@ highlight {
   pointer-events: none;
 }
 .section-content {
+  padding-top: 0;
+  padding-bottom: 0;
   position: relative;
   z-index: 1;
 }
