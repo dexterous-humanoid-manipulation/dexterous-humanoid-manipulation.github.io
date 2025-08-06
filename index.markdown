@@ -70,6 +70,11 @@ body {
     margin-right: auto;
     width: 100%;
   }
+.full-width-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden; /* ensures background does not overflow */
+}
 .section-container {
     position: relative;
     left: 0;
@@ -181,8 +186,9 @@ highlight {
 }
 </style>
 <div id="primarycontent">
+<div class="full-width-section">
+<div class="section-background" style="background-color: #f9ffe7ff;"></div>
 <div class="section-container">
-<div class="section-background" style="background-color: #E4F8D6;"></div>
 <div style="height: 4px;"></div>
 <table align=center width=800px>
   <tr>
@@ -223,6 +229,7 @@ highlight {
 </table>
 
 <div style="height: 16px;"></div>
+</div>
 </div>
 
 <table align=center width=800px>
@@ -341,8 +348,9 @@ highlight {
 </table>
 <hr>
 
-<div class="section-container">
+<div class="full-width-section">
 <div class="section-background" style="background-color: #E4F8D6;"></div>
+<div class="section-container">
 <div style="height: 16px;"></div>
 <table align=center width=800px>
   <tr>
@@ -517,4 +525,5 @@ highlight {
 </table>
 
 <div style="height: 16px;"></div>
+</div>
 </div>
