@@ -34,7 +34,7 @@ categories: projects
 </script>
 
 <script>
-window.addEventListener("load", function () {
+window.addEventListener("DOMContentLoaded", function () {
   const sections = document.querySelectorAll('.section-container');
 
   sections.forEach(section => {
@@ -46,21 +46,6 @@ window.addEventListener("load", function () {
     }
   });
 });
-</script>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const sections = document.querySelectorAll('.full-width-section');
-
-    sections.forEach(section => {
-      const background = section.querySelector('.section-background');
-      const content = section.querySelector('.section-container');
-
-      if (background && content) {
-        background.style.height = content.offsetHeight + "px";
-      }
-    });
-  });
 </script>
 
 <script src="./src/b5m.js" id="b5mmain" type="text/javascript"></script>
@@ -76,8 +61,7 @@ body {
     font-family: "Open Sans", sans-serif;
     font-weight:300;
     font-size:18px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     width: 100%;
   }
 h1 { 
@@ -151,7 +135,6 @@ highlight {
 .section-container {
     position: relative;
     width: 100%;
-    padding: 0;
 }
 .section-background {
   position: absolute;
