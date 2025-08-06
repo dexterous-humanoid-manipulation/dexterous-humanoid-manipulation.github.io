@@ -92,10 +92,6 @@ IMG {
 BODY {
     TEXT-ALIGN: center
   }
-hr{
-    border: 0;
-    height: 40px;
-  }
 pre {
     background: #f4f4f4;
     border: 1px solid #ddd;
@@ -159,7 +155,7 @@ highlight {
 <div class="section-background" style="background-color: #ebffe7ff;"></div>
 <div class="section-content">
 <div id="primarycontent">
-<div style="height: 4px;"></div>
+<div style="height: 20px;"></div>
 <table align=center width=800px>
   <tr>
     <td>
@@ -174,7 +170,7 @@ highlight {
   </tr>
 </table>
 
-<div style="height: 16px;"></div>
+<div style="height: 20px;"></div>
 
 <table align=center width=800px>
   <tr>
@@ -197,13 +193,13 @@ highlight {
     </td>
   </tr>
 </table>
-<hr>
+<div style="height: 20px;"></div>
 </div>
 </div>
 </div>
 
 <div id="primarycontent">
-<div style="height: 16px;"></div>
+<div style="height: 20px;"></div>
 <table align=center width=800px>
   <tr>
     <td>
@@ -221,7 +217,7 @@ highlight {
   </tr>
 </table>
 
-<hr>
+<div style="height: 40px;"></div>
 
 <table align=center width=800px>
 <tr>
@@ -302,7 +298,7 @@ highlight {
 </tr>
 </table>
 
-<hr>
+<div style="height: 40px;"></div>
 
 <table align=center width=800px>
 <tr>
@@ -318,14 +314,14 @@ highlight {
   </td>
 </tr>
 </table>
-<hr>
+<div style="height: 20px;"></div>
 </div>
 
 <div class="section-container">
 <div class="section-background" style="background-color: #E4F8D6;"></div>
 <div class="section-content">
 <div id="primarycontent">
-<div style="height: 16px;"></div>
+<div style="height: 20px;"></div>
 <table align=center width=800px>
   <tr>
     <td> 
@@ -375,7 +371,7 @@ highlight {
   </tr>
   <tr>
     <td>
-      <div style="height: 16px;"></div>
+      <div style="height: 12px;"></div>
     </td>
   </tr>
   <tr valign=top>
@@ -401,7 +397,7 @@ highlight {
   </tr>
 </table>
 
-<hr>
+<div style="height: 40px;"></div>
 
 <table align=center width=800px>
   <tr>
@@ -451,7 +447,7 @@ highlight {
   </tr>
   <tr>
     <td>
-      <div style="height: 16px;"></div>
+      <div style="height: 12px;"></div>
     </td>
   </tr>
   <tr valign=top>
@@ -483,7 +479,7 @@ highlight {
   </tr>
 </table>
 
-<hr>
+<div style="height: 40px;"></div>
 
 <table align=center width=800px>
   <tr>
@@ -498,6 +494,6 @@ highlight {
   </tr>
 </table>
 
-<div style="height: 16px;"></div>
+<div style="height: 40px;"></div>
 </div>
 </div>
