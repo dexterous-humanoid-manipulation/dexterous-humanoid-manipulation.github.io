@@ -149,8 +149,9 @@ highlight {
   font-weight: 500;
 }
 .section-container {
-  position: relative;
-  width: 100%;
+    position: relative;
+    width: 100%;
+    padding: 0;
 }
 .section-background {
   position: absolute;
@@ -162,8 +163,6 @@ highlight {
   pointer-events: none;
 }
 .section-content {
-  padding-top: 0;
-  padding-bottom: 0;
   position: relative;
   z-index: 1;
 }
