@@ -314,11 +314,11 @@ highlight {
   </td>
 </tr>
 </table>
-<div style="height: 20px;"></div>
+<div style="height: 40px;"></div>
 </div>
 
 <div class="section-container">
-<div class="section-background" style="background-color: #E4F8D6;"></div>
+<div class="section-background" style="background-color: #ebffe7ff;"></div>
 <div class="section-content">
 <div id="primarycontent">
 <div style="height: 20px;"></div>
@@ -371,7 +371,7 @@ highlight {
   </tr>
   <tr>
     <td>
-      <div style="height: 12px;"></div>
+      <div style="height: 20px;"></div>
     </td>
   </tr>
   <tr valign=top>
@@ -447,7 +447,7 @@ highlight {
   </tr>
   <tr>
     <td>
-      <div style="height: 12px;"></div>
+      <div style="height: 20px;"></div>
     </td>
   </tr>
   <tr valign=top>
