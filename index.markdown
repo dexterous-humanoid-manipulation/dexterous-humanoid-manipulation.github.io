@@ -16,7 +16,7 @@ categories: projects
 
 <meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
 <meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
-<meta property="og:image" content="./src/figure/humanoids2025_logo.png">
+<meta property="og:image" content="./src/figure/">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
 
@@ -70,11 +70,24 @@ body {
     margin-right: auto;
     width: 100%;
   }
-.page-width-background {
-    position: absolute;
+.section-container {
+    position: relative;
     left: 0;
     width: 100%;
-    background-color: #E4F8D6;
+    margin: 0 auto;
+}
+.section-container table {
+    position: relative;
+    z-index: 1;
+}
+.section-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    pointer-events: none;
   }
 h1 { 
     font-family: "Didact Gothic";
@@ -168,7 +181,8 @@ highlight {
 }
 </style>
 <div id="primarycontent">
-<div class="page-width-background" style="background-color: #f5ffeeff;">
+<div class="section-container">
+<div class="section-background" style="background-color: #E4F8D6;"></div>
 <div style="height: 4px;"></div>
 <table align=center width=800px>
   <tr>
@@ -210,8 +224,6 @@ highlight {
 
 <div style="height: 16px;"></div>
 </div>
-
-<hr>
 
 <table align=center width=800px>
   <tr>
@@ -329,7 +341,8 @@ highlight {
 </table>
 <hr>
 
-<div class="page-width-background">
+<div class="section-container">
+<div class="section-background" style="background-color: #E4F8D6;"></div>
 <div style="height: 16px;"></div>
 <table align=center width=800px>
   <tr>
