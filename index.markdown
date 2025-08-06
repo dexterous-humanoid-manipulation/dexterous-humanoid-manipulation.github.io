@@ -294,7 +294,7 @@ highlight {
 <tr>
   <td>
     <p align="justify">
-       We have set the submission deadline for September 18; however, submissions will be reviewed on a <b>rolling basis</b>, and authors will receive notifications approximately one to two weeks after submission. This rolling review process is intended for authors who may require quicker notification for travel, visa, or funding arrangements.
+       We have set the submission deadline for September 18; however, submissions will be reviewed on a <b>rolling basis</b>, and authors will receive notifications approximately one to two weeks after submission. We strongly encourage <b>early submission</b>, especially for those who may need early notification for travel, visa, or funding arrangements.
     </p>
   </td>
 </tr>
