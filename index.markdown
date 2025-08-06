@@ -14,8 +14,12 @@ categories: projects
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Dexterous Humanoid Manipulation Workshop @ Humanoids 2025</title>
 
-<!-- <meta property="og:image" content="src/figure/approach.png"> -->
-<meta property="og:title" content="DexHumanoid">
+<meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
+<meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
+<meta property="og:image" content="./src/figure/humanoids2025_logo.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
 
 <script src="./src/popup.js" type="text/javascript"></script>
 <script src="https://kit.fontawesome.com/ef67f68cfb.js" crossorigin="anonymous"></script>
@@ -164,6 +168,7 @@ highlight {
 }
 </style>
 <div id="primarycontent">
+<div class="page-width-background" style="background-color: #f5ffeeff;">
 <div style="height: 4px;"></div>
 <table align=center width=800px>
   <tr>
@@ -202,6 +207,9 @@ highlight {
     </td>
   </tr>
 </table>
+
+<div style="height: 16px;"></div>
+</div>
 
 <hr>
 
@@ -348,6 +356,13 @@ highlight {
       </p>
     </td>
     <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/hfang.png">
+      <p align=center>
+      <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
+      UMD<br>
+      </p>
+    </td>
+    <td width=150px> 
       <img class="profile" src="./src/figure/speakers/jhurst.jpg">
       <p align=center>
       <a href="https://mime.engineering.oregonstate.edu/research/drl">Jonathan Hurst</a><br>
@@ -360,14 +375,6 @@ highlight {
       <p align=center>
       <a href="http://bostondynamics.com/atlas">Pat Marion</a><br>
       Boston Dynamics
-      </p>
-    </td>
-    <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/hfang.png">
-      <p align=center>
-      <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
-      UMD<br>
-      (tentative)
       </p>
     </td>
   </tr>
