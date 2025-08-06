@@ -16,10 +16,9 @@ categories: projects
 
 <meta property="og:title" content="Dexterous Humanoid Manipulation Workshop">
 <meta property="og:description" content="Dexterous Humanoid Manipulation Workshop @ 2025 IEEE-RAS 24th International Conference on Humanoid Robots">
-<meta property="og:image" content="./src/figure/">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="627">
-
+<meta property="og:image" content="./src/figure/humanoids2025_logo.png">
+<meta property="og:image:width" content="880">
+<meta property="og:image:height" content="220">
 
 <script src="./src/popup.js" type="text/javascript"></script>
 <script src="https://kit.fontawesome.com/ef67f68cfb.js" crossorigin="anonymous"></script>
@@ -56,6 +55,24 @@ categories: projects
   });
 </script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const sections = document.querySelectorAll('.full-width-section');
+
+    sections.forEach(section => {
+      const background = section.querySelector('.section-background');
+      const content = section.querySelector('.section-container');
+
+      if (background && content) {
+        background.style.height = content.offsetHeight + "px";
+      }
+    });
+  });
+</script>
+
+<script src="./src/b5m.js" id="b5mmain" type="text/javascript"></script>
+<script type="text/javascript" async="" src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
+
 <script type="text/javascript">
 // redefining default features
 var _POPUP_FEATURES = 'width=500,height=300,resizable=1,scrollbars=1,titlebar=1,status=1';
@@ -69,30 +86,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-  }
-.full-width-section {
-  position: relative;
-  width: 100%;
-  overflow: hidden; /* ensures background does not overflow */
-}
-.section-container {
-    position: relative;
-    left: 0;
-    width: 100%;
-    margin: 0 auto;
-}
-.section-container table {
-    position: relative;
-    z-index: 1;
-}
-.section-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 0;
-    pointer-events: none;
   }
 h1 { 
     font-family: "Didact Gothic";
@@ -149,42 +142,49 @@ table {
   height:100px; 
   border-radius: 50%;
 }
-
-</style>
-
-<meta content="MSHTML 6.00.2800.1400" name="GENERATOR"><script
-src="./src/b5m.js" id="b5mmain"
-type="text/javascript"></script><script type="text/javascript"
-async=""
-src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
-
-
-</head>
-
-<body data-gr-c-s-loaded="true">
-
-
-<style>
 a {
   color: #186814;
   text-decoration: none;
   font-weight: 500;
 }
-</style>
-
-<style>
 html {
     scroll-behavior: smooth;
 }
-</style>
-
-<style>
 highlight {
   color: #186814;
   text-decoration: none;
   font-weight: 500;
 }
+.full-width-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden; /* ensures background does not overflow */
+}
+.section-container {
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+.section-container table {
+    position: relative;
+    z-index: 1;
+}
+.section-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    pointer-events: none;
+  }
 </style>
+
+</head>
+
+<body data-gr-c-s-loaded="true">
+
 <div id="primarycontent">
 <div class="full-width-section">
 <div class="section-background" style="background-color: #f9ffe7ff;"></div>
