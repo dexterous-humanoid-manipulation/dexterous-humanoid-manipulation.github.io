@@ -272,7 +272,7 @@ highlight {
 <tr>
   <td>
     <p align="justify">
-      Submissions should be up to 4 pages, with unlimited references and appendices, and formatted in the <a href="https://ras.papercept.net/conferences/support/support.php">IEEE conference style</a> (ICRA or Humanoids). Anonymization is not required. Work under review or accepted at other workshops or conferences is welcome, as we do not require copyright transfer. We are accepting submissions through <a href="https://docs.google.com/forms/d/e/1FAIpQLScXcpr4Qk0Vsxd8cdPQQPOz_Eq1WxCCPW0f3chz-_TjoVz-yQ/viewform?usp=dialog"><b>this form</b></a>.
+      Submissions should be up to 4 pages, with unlimited references and appendices, and formatted in the <a href="https://ras.papercept.net/conferences/support/support.php">IEEE conference style</a> (ICRA or Humanoids). Anonymization is not required. Work under review or accepted at other workshops or conferences is welcome, as we do not require copyright transfer. We are accepting submissions through <a href="https://openreview.net/group?id=IEEE.org/RAS/Humanoids/2025/Workshop/DHM"><b>OpenReview</b></a>.
     </p>
   </td>
 </tr>
