@@ -385,14 +385,6 @@ highlight {
       (tentative)
       </p>
     </td>
-    <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/dlee.jpg">
-      <p align=center>
-      <a href="https://www.tuwien.at/en/etit/ict/asl/team/dongheui-lee">Dongheui Lee</a><br>
-      TU Wien, DLR<br>
-      (tentative)
-      </p>
-    </td>
   </tr>
 </table>
     </td>
