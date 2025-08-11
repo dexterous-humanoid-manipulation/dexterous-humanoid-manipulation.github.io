@@ -378,6 +378,13 @@ highlight {
   </tr>
   <tr valign=top>
     <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/cott.png">
+      <p align=center>
+      <a href="https://www.acin.tuwien.ac.at/en/staff/cott/">Christian Ott</a><br>
+      TU Wien, DLR<br>
+      </p>
+    </td>
+    <td width=150px> 
       <img class="profile" src="./src/figure/speakers/rtedrake.jpg">
       <p align=center>
       <a href="https://locomotion.csail.mit.edu/russt.html">Russ Tedrake</a><br>
