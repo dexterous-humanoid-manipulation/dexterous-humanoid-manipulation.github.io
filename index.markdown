@@ -363,20 +363,7 @@ highlight {
       Agility Robotics
       </p>
     </td>
-    <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/pmarion.jpg">
-      <p align=center>
-      <a href="http://bostondynamics.com/atlas">Pat Marion</a><br>
-      Boston Dynamics
-      </p>
-    </td>
   </tr>
-  <tr>
-    <td>
-      <div style="height: 20px;"></div>
-    </td>
-  </tr>
-  <tr valign=top>
     <td width=150px> 
       <img class="profile" src="./src/figure/speakers/cott.png">
       <p align=center>
@@ -384,12 +371,24 @@ highlight {
       TU Wien, DLR<br>
       </p>
     </td>
+  <tr>
+    <td>
+      <div style="height: 20px;"></div>
+    </td>
+  </tr>
+  <tr valign=top>
     <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/rtedrake.jpg">
+      <img class="profile" src="./src/figure/speakers/pmarion.jpg">
       <p align=center>
-      <a href="https://locomotion.csail.mit.edu/russt.html">Russ Tedrake</a><br>
-      MIT, TRI<br>
-      (tentative)
+      <a href="http://bostondynamics.com/atlas">Pat Marion</a><br>
+      Boston Dynamics
+      </p>
+    </td>
+    <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/bburchfiel.jpg">
+      <p align=center>
+      <a href="https://www.linkedin.com/in/benburchfiel">Benjamin Burchfiel</a><br>
+      TRI<br>
       </p>
     </td>
   </tr>
