@@ -370,6 +370,7 @@ highlight {
       TU Wien, DLR<br>
       </p>
     </td>
+  </tr>
   <tr>
     <td>
       <div style="height: 20px;"></div>
