@@ -363,7 +363,6 @@ highlight {
       Agility Robotics
       </p>
     </td>
-  </tr>
     <td width=150px> 
       <img class="profile" src="./src/figure/speakers/cott.png">
       <p align=center>
