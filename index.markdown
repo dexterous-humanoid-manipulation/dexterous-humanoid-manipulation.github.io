@@ -335,10 +335,10 @@ highlight {
 <table>
   <tr valign=top>
     <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/gshi.jpg">
+      <img class="profile" src="./src/figure/speakers/hfang.png">
       <p align=center>
-      <a href="https://www.gshi.me">Guanya Shi</a><br>
-      CMU
+      <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
+      UMD<br>
       </p>
     </td>
     <td width=150px> 
@@ -349,10 +349,17 @@ highlight {
       </p>
     </td>
     <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/hfang.png">
+      <img class="profile" src="./src/figure/speakers/gshi.jpg">
       <p align=center>
-      <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
-      UMD<br>
+      <a href="https://www.gshi.me">Guanya Shi</a><br>
+      CMU
+      </p>
+    </td>
+    <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/cott.png">
+      <p align=center>
+      <a href="https://www.acin.tuwien.ac.at/en/staff/cott/">Christian Ott</a><br>
+      TU Wien, DLR<br>
       </p>
     </td>
     <td width=150px> 
@@ -361,13 +368,6 @@ highlight {
       <a href="https://mime.engineering.oregonstate.edu/research/drl">Jonathan Hurst</a><br>
       Oregon State,<br>
       Agility Robotics
-      </p>
-    </td>
-    <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/cott.png">
-      <p align=center>
-      <a href="https://www.acin.tuwien.ac.at/en/staff/cott/">Christian Ott</a><br>
-      TU Wien, DLR<br>
       </p>
     </td>
   </tr>
