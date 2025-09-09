@@ -322,95 +322,95 @@ highlight {
 <table class="program_table">
   <tbody class="table_bottom">
     <tr>
-      <td>9:00AM- 9:10AM</td>
+      <td>9:00 - 9:10</td>
       <td>Opening</td>
       <td></td>
     </tr>
     <tr>
-      <td>9:10AM-9:45AM</td>
+      <td>9:10 - 9:45</td>
       <td>Talk 1</td>
       <td>Hao-Shu Fang</td>
     </tr>
     <tr>
-      <td>9:45AM-10:20AM</td>
+      <td>9:45 - 10:20</td>
       <td>Talk 2<br>
       <i>Robotic Avatar System for Dexterous Manipulation and Learning</i>
       </td>
       <td>Jaeheung Park</td>
     </tr>
     <tr>
-      <td>10:20AM-10:40AM</td>
+      <td>10:20 - 10:40</td>
       <td>Presentations of Contributed Papers</td>
       <td></td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>10:40AM-11:10AM</td>
+      <td>10:40 - 11:10</td>
       <td>Coffee Break and Poster Session</td>
       <td></td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>11:10AM-11:45AM</td>
+      <td>11:10 - 11:45</td>
       <td>Talk 3:<br>
-      <i>Real2Sim2Real Learning for Humanoid Dexterous Loco-Manipulation and Manipulation Skills</i>
+      <i>Real2Sim2Real Learning for Humanoid Dexterous Loco-Manipulation<br>and Manipulation Skills</i>
       </td>
       <td>Guanya Shi</td>
     </tr>
     <tr>
-      <td>11:45AM-12:20PM</td>
+      <td>11:45 - 12:20</td>
       <td>Talk 4<br>
-      <i>Impact analysis for whole body manipulation tasks with controlled contact transitions</i>
+      <i>Impact Analysis for Whole Body Manipulation Tasks with Controlled<br>Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>12:20PM-1:25PM</td>
+      <td>12:20 - 13:25</td>
       <td>Lunch Break and Demos</td>
       <td>RobotEra</td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>1:25PM-2:00PM</td>
+      <td>13:25 - 14:00</td>
       <td>Talk 5</td>
       <td>Jonathan Hurst</td>
     </tr>
     <tr>
-      <td>2:00PM-2:35PM</td>
+      <td>14:00 - 14:35</td>
       <td>Talk 6</td>
       <td>Benjamin Burchfiel</td>
     </tr>
     <tr>
-      <td>2:35PM-3:10PM </td>
+      <td>14:35 - 15:10</td>
       <td>Talk 7</td>
       <td>Pat Marion</td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>3:10PM-3:40PM</td>
+      <td>15:10 - 15:40</td>
       <td>Coffee Break and Poster Session</td>
       <td></td>
     </tr>
   </tbody>
   <tbody class="table_bottom">
     <tr>
-      <td>3:40PM-4:00PM</td>
+      <td>15:40 - 16:00</td>
       <td>Presentations of Contributed Papers</td>
       <td></td>
     </tr>
     <tr>
-      <td>4:00PM-4:50PM</td>
+      <td>16:00 - 16:50</td>
       <td>Panel Discussion</td>
       <td>Luis Sentis<br>Jonathan Hurst<br>Benjamin Burchfiel<br>Pat Marion</td>
     </tr>
     <tr>
-      <td>4:50PM-5:00PM</td>
+      <td>16:50 - 17:00</td>
       <td>Closing</td>
       <td></td>
     </tr>
