@@ -328,13 +328,13 @@ highlight {
     </tr>
     <tr>
       <td>9:10 - 9:45</td>
-      <td>Talk</td>
+      <td>TBD</td>
       <td>Hao-Shu Fang</td>
     </tr>
     <tr>
       <td>9:45 - 10:20</td>
       <td>
-      Talk: <i>Robotic Avatar System for Dexterous Manipulation and<br>Learning</i>
+      <i>Robotic Avatar System for Dexterous Manipulation and<br>Learning</i>
       </td>
       <td>Jaeheung Park</td>
     </tr>
@@ -355,14 +355,14 @@ highlight {
     <tr>
       <td>11:10 - 11:45</td>
       <td>
-      Talk: <i>Real2Sim2Real Learning for Humanoid Dexterous<br>Loco-Manipulation and Manipulation Skills</i>
+      <i>Real2Sim2Real Learning for Humanoid Dexterous<br>Loco-Manipulation and Manipulation Skills</i>
       </td>
       <td>Guanya Shi</td>
     </tr>
     <tr>
       <td>11:45 - 12:20</td>
       <td>
-      Talk: <i>Impact Analysis for Whole Body Manipulation Tasks<br>with Controlled Contact Transitions</i>
+      <i>Impact Analysis for Whole Body Manipulation Tasks<br>with Controlled Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
     </tr>
@@ -377,17 +377,17 @@ highlight {
   <tbody class="table_bottom">
     <tr>
       <td>13:25 - 14:00</td>
-      <td>Talk</td>
+      <td>TBD</td>
       <td>Jonathan Hurst</td>
     </tr>
     <tr>
       <td>14:00 - 14:35</td>
-      <td>Talk</td>
+      <td>TBD</td>
       <td>Benjamin Burchfiel</td>
     </tr>
     <tr>
       <td>14:35 - 15:10</td>
-      <td>Talk</td>
+      <td>TBD</td>
       <td>Pat Marion</td>
     </tr>
   </tbody>
