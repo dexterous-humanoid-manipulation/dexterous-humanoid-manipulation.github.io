@@ -334,7 +334,7 @@ highlight {
     <tr>
       <td>9:45 - 10:20</td>
       <td>Talk 2<br>
-      <i>Robotic Avatar System for Dexterous Manipulation and Learning</i>
+      <i>Robotic Avatar System for Dexterous Manipulation and<br>Learning</i>
       </td>
       <td>Jaeheung Park</td>
     </tr>
@@ -355,14 +355,14 @@ highlight {
     <tr>
       <td>11:10 - 11:45</td>
       <td>Talk 3:<br>
-      <i>Real2Sim2Real Learning for Humanoid Dexterous Loco-Manipulation<br>and Manipulation Skills</i>
+      <i>Real2Sim2Real Learning for Humanoid Dexterous<br>Loco-Manipulation and Manipulation Skills</i>
       </td>
       <td>Guanya Shi</td>
     </tr>
     <tr>
       <td>11:45 - 12:20</td>
       <td>Talk 4<br>
-      <i>Impact Analysis for Whole Body Manipulation Tasks with Controlled<br>Contact Transitions</i>
+      <i>Impact Analysis for Whole Body Manipulation Tasks with<br>Controlled Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
     </tr>
