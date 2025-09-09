@@ -147,6 +147,15 @@ highlight {
   position: relative;
   z-index: 1;
 }
+.program_table {
+    border-collapse: collapse;
+    padding: 8px;
+    vertical-align: middle;
+    border: 2px solid #ddd;
+}
+.table_bottom td {
+    border-bottom: 1px solid #ddd; /* Solid line below the header */
+  }
 </style>
 
 </head>
@@ -310,9 +319,103 @@ highlight {
 </tr>
 <tr>
   <td>
-    <p align="justify">
-      To be announced soon
-    </p>
+<table class="program_table">
+  <tbody class="table_bottom">
+    <tr>
+      <td>9:00AM- 9:10AM</td>
+      <td>Opening</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9:10AM-9:45AM</td>
+      <td>Talk 1</td>
+      <td>Hao-Shu Fang</td>
+    </tr>
+    <tr>
+      <td>9:45AM-10:20AM</td>
+      <td>Talk 2<br>
+      <i>Robotic Avatar System for Dexterous Manipulation and Learning</i>
+      </td>
+      <td>Jaeheung Park</td>
+    </tr>
+    <tr>
+      <td>10:20AM-10:40AM</td>
+      <td>Presentations of Contributed Papers</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>10:40AM-11:10AM</td>
+      <td>Coffee Break and Poster Session</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>11:10AM-11:45AM</td>
+      <td>Talk 3:<br>
+      <i>Real2Sim2Real Learning for Humanoid Dexterous Loco-Manipulation and Manipulation Skills</i>
+      </td>
+      <td>Guanya Shi</td>
+    </tr>
+    <tr>
+      <td>11:45AM-12:20PM</td>
+      <td>Talk 4<br>
+      <i>Impact analysis for whole body manipulation tasks with controlled contact transitions</i>
+      </td>
+      <td>Christian Ott</td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>12:20PM-1:25PM</td>
+      <td>Lunch Break and Demos</td>
+      <td>RobotEra</td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>1:25PM-2:00PM</td>
+      <td>Talk 5</td>
+      <td>Jonathan Hurst</td>
+    </tr>
+    <tr>
+      <td>2:00PM-2:35PM</td>
+      <td>Talk 6</td>
+      <td>Benjamin Burchfiel</td>
+    </tr>
+    <tr>
+      <td>2:35PM-3:10PM </td>
+      <td>Talk 7</td>
+      <td>Pat Marion</td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>3:10PM-3:40PM</td>
+      <td>Coffee Break and Poster Session</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <tbody class="table_bottom">
+    <tr>
+      <td>3:40PM-4:00PM</td>
+      <td>Presentations of Contributed Papers</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4:00PM-4:50PM</td>
+      <td>Panel Discussion</td>
+      <td>Luis Sentis<br>Jonathan Hurst<br>Benjamin Burchfiel<br>Pat Marion</td>
+    </tr>
+    <tr>
+      <td>4:50PM-5:00PM</td>
+      <td>Closing</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
   </td>
 </tr>
 </table>
