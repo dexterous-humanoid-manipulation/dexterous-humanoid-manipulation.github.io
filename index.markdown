@@ -151,12 +151,22 @@ highlight {
   border-collapse: collapse;
   padding: 8px;
   vertical-align: middle;
-}
-.program_table th, td {
-  padding: 8px;
-}
-.table_bottom td {
   border-bottom: 2px solid #ddd;
+}
+.program_table td{
+  padding: 4px;
+}
+.program_table tr {
+  padding: 4px;
+  border-bottom: 2px solid #ddd;
+}
+.no_bottomline tr {
+  padding: 4px;
+  border-bottom: none;
+}
+.hard_bottomline tr {
+  padding: 4px;
+  border-bottom: 2px solid #000;
 }
 </style>
 
@@ -322,7 +332,7 @@ highlight {
 <tr>
   <td>
 <table class="program_table">
-  <tbody class="table_bottom">
+  <tbody>
     <tr>
       <td>9:00 - 9:10</td>
       <td>Opening</td>
@@ -342,20 +352,16 @@ highlight {
       </td>
       <td>Jaeheung Park</td>
     </tr>
-    <tr>
+    <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
       <td>Presentations of Contributed Papers</td>
       <td></td>
     </tr>
-  </tbody>
-  <tbody class="table_bottom">
-    <tr>
+    <tr class="hard_bottomline">
       <td>10:40 - 11:10</td>
       <td>Coffee Break and Poster Session</td>
       <td></td>
     </tr>
-  </tbody>
-  <tbody class="table_bottom">
     <tr>
       <td>11:10 - 11:45</td>
       <td>
@@ -363,22 +369,18 @@ highlight {
       </td>
       <td>Guanya Shi</td>
     </tr>
-    <tr>
+    <tr class="hard_bottomline">
       <td>11:45 - 12:20</td>
       <td>
       <i>Impact Analysis for Whole Body Manipulation Tasks<br>with Controlled Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
     </tr>
-  </tbody>
-  <tbody class="table_bottom">
-    <tr>
+    <tr class="hard_bottomline">
       <td>12:20 - 13:25</td>
       <td>Lunch Break and Demos</td>
       <td>RobotEra</td>
     </tr>
-  </tbody>
-  <tbody class="table_bottom">
     <tr>
       <td>13:25 - 14:00</td>
       <td>TBD</td>
@@ -394,15 +396,11 @@ highlight {
       <td>TBD</td>
       <td>Pat Marion</td>
     </tr>
-  </tbody>
-  <tbody class="table_bottom">
-    <tr>
+    <tr class="hard_bottomline">
       <td>15:10 - 15:40</td>
       <td>Coffee Break and Poster Session</td>
       <td></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>15:40 - 16:00</td>
       <td>Presentations of Contributed Papers</td>
@@ -413,7 +411,7 @@ highlight {
       <td>Panel Discussion</td>
       <td>Luis Sentis<br>Jonathan Hurst<br>Benjamin Burchfiel<br>Pat Marion</td>
     </tr>
-    <tr>
+    <tr class="no_bottomline">
       <td>16:50 - 17:00</td>
       <td>Closing</td>
       <td></td>
