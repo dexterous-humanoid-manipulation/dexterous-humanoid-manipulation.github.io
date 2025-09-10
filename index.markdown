@@ -152,14 +152,14 @@ highlight {
 }
 .program_table td {
   padding: 4px;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 1px solid #ddd;
   vertical-align: middle;
 }
 tr.hard_bottomline td {
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #ddd;
 }
-tr.no_bottomline td {
-  border-bottom: none;
+tr.hard_topline td {
+  border-top: 2px solid #ddd;
 }  
 </style>
 
@@ -326,7 +326,7 @@ tr.no_bottomline td {
   <td>
 <table class="program_table">
   <tbody>
-    <tr>
+    <tr class="hard_topline">
       <td>9:00 - 9:10</td>
       <td>Opening</td>
       <td></td>
@@ -404,7 +404,7 @@ tr.no_bottomline td {
       <td>Panel Discussion</td>
       <td>Luis Sentis<br>Jonathan Hurst<br>Benjamin Burchfiel<br>Pat Marion</td>
     </tr>
-    <tr class="no_bottomline">
+    <tr class="hard_bottomline">
       <td>16:50 - 17:00</td>
       <td>Closing</td>
       <td></td>
