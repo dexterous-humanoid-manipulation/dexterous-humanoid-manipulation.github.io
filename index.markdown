@@ -149,25 +149,18 @@ highlight {
 }
 .program_table {
   border-collapse: collapse;
-  padding: 8px;
+}
+.program_table td {
+  padding: 4px;
+  border-bottom: 2px solid #ddd;
   vertical-align: middle;
-  border-bottom: 2px solid #ddd;
 }
-.program_table td{
-  padding: 4px;
-}
-.program_table tr {
-  padding: 4px;
-  border-bottom: 2px solid #ddd;
-}
-.no_bottomline tr {
-  padding: 4px;
-  border-bottom: none;
-}
-.hard_bottomline tr {
-  padding: 4px;
+tr.hard_bottomline td {
   border-bottom: 2px solid #000;
 }
+tr.no_bottomline td {
+  border-bottom: none;
+}  
 </style>
 
 </head>
