@@ -385,7 +385,7 @@ tr.hard_topline td {
       <td>TBD</td>
       <td>Benjamin Burchfiel</td>
     </tr>
-    <tr>
+    <tr class="hard_bottomline">
       <td>14:35 - 15:10</td>
       <td>TBD</td>
       <td>Pat Marion</td>
