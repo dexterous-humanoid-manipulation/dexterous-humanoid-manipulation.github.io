@@ -152,7 +152,8 @@ highlight {
 }
 .program_table td {
   padding: 4px;
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
   vertical-align: middle;
 }
 tr.hard_bottomline td {
