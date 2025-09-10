@@ -152,14 +152,14 @@ highlight {
 }
 .program_table td {
   padding: 4px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #222;
   vertical-align: middle;
 }
 tr.hard_bottomline td {
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #888;
 }
 tr.hard_topline td {
-  border-top: 2px solid #ddd;
+  border-top: 2px solid #888;
 }  
 </style>
 
