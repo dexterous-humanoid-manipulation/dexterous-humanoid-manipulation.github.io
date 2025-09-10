@@ -123,7 +123,7 @@ a {
   font-weight: 500;
 }
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 highlight {
   color: #186814;
@@ -131,8 +131,8 @@ highlight {
   font-weight: 500;
 }
 .section-container {
-    position: relative;
-    width: 100%;
+  position: relative;
+  width: 100%;
 }
 .section-background {
   position: absolute;
@@ -148,14 +148,16 @@ highlight {
   z-index: 1;
 }
 .program_table {
-    border-collapse: collapse;
-    padding: 8px;
-    vertical-align: middle;
-    border: 2px solid #ddd;
+  border-collapse: collapse;
+  padding: 8px;
+  vertical-align: middle;
+}
+.program_table th, td {
+  padding: 8px;
 }
 .table_bottom td {
-    border-bottom: 1px solid #ddd; /* Solid line below the header */
-  }
+  border-bottom: 2px solid #ddd;
+}
 </style>
 
 </head>
@@ -328,7 +330,9 @@ highlight {
     </tr>
     <tr>
       <td>9:10 - 9:45</td>
-      <td>TBD</td>
+      <td>
+      <i>Perioperation: Sensoring Human Manipulation for<br>Dexterous Humanoid Manipulation</i>
+      </td>
       <td>Hao-Shu Fang</td>
     </tr>
     <tr>
@@ -398,7 +402,7 @@ highlight {
       <td></td>
     </tr>
   </tbody>
-  <tbody class="table_bottom">
+  <tbody>
     <tr>
       <td>15:40 - 16:00</td>
       <td>Presentations of Contributed Papers</td>
