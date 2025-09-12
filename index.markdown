@@ -387,7 +387,9 @@ tr.hard_topline td {
     </tr>
     <tr class="hard_bottomline">
       <td>14:35 - 15:10</td>
-      <td>TBD</td>
+      <td>
+      <i>Developing Large Behavior Models on Atlas</i>
+      </td>
       <td>Pat Marion</td>
     </tr>
     <tr class="hard_bottomline">
@@ -477,17 +479,17 @@ tr.hard_topline td {
   </tr>
   <tr valign=top>
     <td width=150px> 
-      <img class="profile" src="./src/figure/speakers/pmarion.jpg">
-      <p align=center>
-      <a href="http://bostondynamics.com/atlas">Pat Marion</a><br>
-      Boston Dynamics
-      </p>
-    </td>
-    <td width=150px> 
       <img class="profile" src="./src/figure/speakers/bburchfiel.jpg">
       <p align=center>
       <a href="https://www.linkedin.com/in/benburchfiel">Benjamin Burchfiel</a><br>
       TRI<br>
+      </p>
+    </td>
+    <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/pmarion.jpg">
+      <p align=center>
+      <a href="http://bostondynamics.com/atlas">Pat Marion</a><br>
+      Boston Dynamics
       </p>
     </td>
   </tr>
