@@ -382,7 +382,9 @@ tr.hard_topline td {
     </tr>
     <tr>
       <td>14:00 - 14:35</td>
-      <td>TBD</td>
+      <td>
+      <i>Large Behavior Models for Robot Manipulation:<br>What Works and What Matters</i>
+      </td>
       <td>Benjamin Burchfiel</td>
     </tr>
     <tr class="hard_bottomline">
