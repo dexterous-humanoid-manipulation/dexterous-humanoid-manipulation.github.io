@@ -377,7 +377,9 @@ tr.hard_topline td {
     </tr>
     <tr>
       <td>13:25 - 14:00</td>
-      <td>TBD</td>
+      <td>
+      <i>Manipulation != Locomotion,<br>so how do we achieve locomanipulation?</i>
+      </td>
       <td>Jonathan Hurst</td>
     </tr>
     <tr>
