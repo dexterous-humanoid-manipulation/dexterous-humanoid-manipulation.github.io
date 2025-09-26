@@ -80,7 +80,8 @@ h3 {
   }
 detail {
     font-family: "Didact Gothic";
-    font-size:15px;
+    font-size:14px;
+    color: #858585;
   }
 IMG {
     PADDING-RIGHT: 0px;
