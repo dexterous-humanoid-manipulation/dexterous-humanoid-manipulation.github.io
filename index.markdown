@@ -78,6 +78,10 @@ h3 {
     font-family: "Didact Gothic";
     font-weight: bold;
   }
+detail {
+    font-family: "Didact Gothic";
+    font-size:12px;
+  }
 IMG {
     PADDING-RIGHT: 0px;
     PADDING-LEFT: 0px;
@@ -348,8 +352,16 @@ tr.hard_topline td {
     </tr>
     <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
-      <td>Presentations of Contributed Papers</td>
-      <td></td>
+      <td>
+        Presentations of Contributed Papers<br>
+        <detail><i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i></detail><br>
+        <detail><i>Enhancing Tactile-based Reinforcement Learning for Robotic Control</i></detail>
+      </td>
+      <td>
+        <br>
+        <detail>Jiaheng Hu</detail><br>
+        <detail>Elle Miller</detail>
+      </td>
     </tr>
     <tr class="hard_bottomline">
       <td>10:40 - 11:10</td>
@@ -403,8 +415,15 @@ tr.hard_topline td {
     </tr>
     <tr>
       <td>15:40 - 16:00</td>
-      <td>Presentations of Contributed Papers</td>
-      <td></td>
+      <td>Presentations of Contributed Papers
+        <!-- <detail><i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i></detail><br> -->
+        <detail><i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i></detail>
+      </td>
+      <td>
+        <br>
+        <!-- <detail>Jin Cheng</detail><br> -->
+        <detail>Marina Y. Aoyama</detail>
+      </td>
     </tr>
     <tr>
       <td>16:00 - 16:50</td>
