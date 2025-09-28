@@ -417,12 +417,12 @@ tr.hard_topline td {
     <tr>
       <td>15:40 - 16:00</td>
       <td>Presentations of Contributed Papers<br>
-        <!-- <detail><i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i></detail><br> -->
+        <detail><i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i></detail><br>
         <detail><i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i></detail>
       </td>
       <td>
         <br>
-        <!-- <detail>Jin Cheng</detail><br> -->
+        <detail>Jin Cheng</detail><br>
         <detail>Marina Y. Aoyama</detail>
       </td>
     </tr>
