@@ -370,8 +370,8 @@ tr.hard_topline td {
   </td>
 </tr>
 </table>
+
 <div style="height: 40px;"></div>
-</div>
 
 <table align=center width=800px>
 <tr>
@@ -452,7 +452,6 @@ tr.hard_topline td {
 </tr>
 </table>
 <div style="height: 40px;"></div>
-</div>
 
 <table align=center width=800px>
 <tr>
@@ -534,6 +533,7 @@ tr.hard_topline td {
 </table>
 
 <div style="height: 40px;"></div>
+</div>
 
 <div class="section-container">
 <div class="section-background" style="background-color: #ebffe7ff;"></div>
