@@ -501,14 +501,14 @@ tr.hard_topline td {
     </table>
   </td>
 </tr>
-<tr>
+<!-- <tr>
   <td>
     <p align="justify">
       Submissions should be up to 4 pages, with unlimited references and appendices, and formatted in the <a href="https://ras.papercept.net/conferences/support/support.php">IEEE conference style</a> (ICRA or Humanoids). Anonymization is not required. Work under review or accepted at other workshops or conferences is welcome, as we do not require copyright transfer. We are accepting submissions through <a href="https://openreview.net/group?id=IEEE.org/RAS/Humanoids/2025/Workshop/DHM"><b>OpenReview</b></a>.
     </p>
   </td>
-</tr>
-<tr>
+</tr> -->
+<!-- <tr>
   <td>
     <table align=left style="margin-top:12px; margin-bottom:12px;">
     <tr>
@@ -522,12 +522,90 @@ tr.hard_topline td {
     </tr>
     </table>
   </td>
-</tr>
-<tr>
+</tr> -->
+<!-- <tr>
   <td>
     <p align="justify">
        We have set the submission deadline for September 18; however, submissions will be reviewed on a <b>rolling basis</b>, and authors will receive notifications approximately one to two weeks after submission. We strongly encourage <b>early submission</b>, especially for those who may need early notification for travel, visa, or funding arrangements.
     </p>
+  </td>
+</tr> -->
+<tr>
+  <td>
+<table class="paper_table">
+  <tbody>
+    <tr class="hard_topline">
+      <td>
+        Accepted Papers
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr class="hard_topline">
+      <td>
+        <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i>
+      </td>
+      <td>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i>
+      </td>
+      <td>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i>
+      </td>
+      <td>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>Multi-contact Optimization for Whole-body Dexterity</i>
+      </td>
+      <td>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i>
+      </td>
+      <td>Sanghyun Hahn, Jonghyun Choi</td>
+      <td></td>
+    </tr>  
+    <tr>
+      <td>
+        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i>
+      </td>
+      <td>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation</i>
+      </td>
+      <td>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</td>
+      <td></td>
+    </tr>    
+    <tr>
+      <td>
+        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i>
+      </td>
+      <td>Hyosung Kim, Junhui Lee, Saekwang Nam</td>
+      <td></td>
+    </tr>
+    <tr class="hard_bottomline">
+      <td>
+        <i>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</i>
+      </td>
+      <td>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>    
   </td>
 </tr>
 </table>
