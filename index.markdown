@@ -206,12 +206,16 @@ tr.hard_topline td {
 <table align=center width=800px>
   <tr>
     <td>
-      <a href="#submission" style="color:#484824;">
+      <!-- <a href="#submission" style="color:#484824;">
         Paper Submission
       </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp; -->
       <a href="#program" style="color:#484824;">
         Program Schedule
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#submission" style="color:#484824;">
+        Contributed Papers
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#speakers" style="color:#484824;">
@@ -375,7 +379,8 @@ tr.hard_topline td {
 <table align=center width=800px>
 <tr>
   <td>
-    <h2 id="submission">Paper Submission Guidelines</h2>
+    <h2 id="submission">Contributed Papers</h2>
+    <!-- <h2 id="submission">Paper Submission Guidelines</h2> -->
   </td>
 </tr>
 <tr>
