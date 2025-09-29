@@ -163,7 +163,6 @@ highlight {
 }
 .paper_table {
   border-collapse: collapse;
-  font-size:14px;
 }
 .paper_table td {
   padding: 4px;
@@ -373,86 +372,6 @@ tr.hard_topline td {
 
 <div style="height: 40px;"></div>
 
-<!-- <table align=center width=800px>
-<tr>
-  <td>
-    <h2 id="program">Accepted Papers</h2>
-  </td>
-</tr>
-<tr>
-  <td>
-<table class="paper_table">
-  <tbody>
-    <tr class="hard_topline">
-      <td>
-        <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL<i>
-      </td>
-      <td>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i>
-      </td>
-      <td>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i>
-      </td>
-      <td>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>Multi-contact Optimization for Whole-body Dexterity</i>
-      </td>
-      <td>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i>
-      </td>
-      <td>Sanghyun Hahn, Jonghyun Choi</td>
-      <td></td>
-    </tr>  
-    <tr>
-      <td>
-        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i>
-      </td>
-      <td>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation</i>
-      </td>
-      <td>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</td>
-      <td></td>
-    </tr>    
-    <tr>
-      <td>
-        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i>
-      </td>
-      <td>Hyosung Kim, Junhui Lee, Saekwang Nam</td>
-      <td></td>
-    </tr>
-    <tr class="hard_bottomline">
-      <td>
-        <i>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</i>
-      </td>
-      <td>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-  </td>
-</tr>
-</table>
-<div style="height: 40px;"></div> -->
-
 <table align=center width=800px>
 <tr>
   <td>
@@ -539,69 +458,68 @@ tr.hard_topline td {
         Accepted Papers
       </td>
       <td></td>
-      <td></td>
     </tr>
     <tr class="hard_topline">
       <td>
-        <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i>
+        <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i><br>
+        <detail>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</detail>
       </td>
-      <td>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</td>
       <td></td>
     </tr>
     <tr>
       <td>
-        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i>
+        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i><br>
+        <detail>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</detail>
       </td>
-      <td>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</td>
       <td></td>
     </tr>
     <tr>
       <td>
-        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i>
+        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i><br>
+        <detail>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</detail>
       </td>
-      <td>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</td>
       <td></td>
     </tr>
     <tr>
       <td>
-        <i>Multi-contact Optimization for Whole-body Dexterity</i>
+        <i>Multi-contact Optimization for Whole-body Dexterity</i><br>
+        <detail>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</detail>
       </td>
-      <td>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</td>
       <td></td>
     </tr>
     <tr>
       <td>
-        <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i>
+        <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i><br>
+        <detail>Sanghyun Hahn, Jonghyun Choi</detail>
       </td>
-      <td>Sanghyun Hahn, Jonghyun Choi</td>
       <td></td>
     </tr>  
     <tr>
       <td>
-        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i>
+        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i><br>
+        <detail>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</detail>
       </td>
-      <td>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</td>
       <td></td>
     </tr>
     <tr>
       <td>
-        <i>Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation</i>
+        <i>Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation</i><br>
+        <detail>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</detail>
       </td>
-      <td>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</td>
       <td></td>
     </tr>    
     <tr>
       <td>
-        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i>
+        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i><br>
+        <detail>Hyosung Kim, Junhui Lee, Saekwang Nam</detail>
       </td>
-      <td>Hyosung Kim, Junhui Lee, Saekwang Nam</td>
       <td></td>
     </tr>
     <tr class="hard_bottomline">
       <td>
-        <i>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</i>
+        <i>Enhancing Tactile-based Reinforcement Learning for Robotic Control</i><br>
+        <detail>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</detail>
       </td>
-      <td>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</td>
       <td></td>
     </tr>
   </tbody>
