@@ -373,7 +373,7 @@ tr.hard_topline td {
 
 <div style="height: 40px;"></div>
 
-<table align=center width=800px>
+<!-- <table align=center width=800px>
 <tr>
   <td>
     <h2 id="program">Accepted Papers</h2>
@@ -381,7 +381,7 @@ tr.hard_topline td {
 </tr>
 <tr>
   <td>
-<table class="program_table">
+<table class="paper_table">
   <tbody>
     <tr class="hard_topline">
       <td>
@@ -451,7 +451,7 @@ tr.hard_topline td {
   </td>
 </tr>
 </table>
-<div style="height: 40px;"></div>
+<div style="height: 40px;"></div> -->
 
 <table align=center width=800px>
 <tr>
