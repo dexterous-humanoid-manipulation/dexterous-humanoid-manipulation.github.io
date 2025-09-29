@@ -462,70 +462,76 @@ tr.hard_topline td {
       <td>
         Accepted Papers
       </td>
-      <td></td>
     </tr>
     <tr class="hard_topline">
       <td>
         <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i><br>
-        <detail>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</detail>
+        <detail>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</detail><br>
+        <detail><a href="src/file/paper/jhu.pdf">Paper</a> | <a href="src/file/poster/jhu.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
       </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i><br>
-        <detail>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</detail>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i><br>
-        <detail>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</detail>
-      </td>
-      <td></td>
     </tr>
     <tr>
       <td>
         <i>Multi-contact Optimization for Whole-body Dexterity</i><br>
-        <detail>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</detail>
+        <detail>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</detail><br>
+        <detail><a href="src/file/paper/vleve.pdf">Paper</a> | <a href="src/file/poster/vleve.pdf">Poster</a></detail>
       </td>
-      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <i>Towards Developing Standards and Guidelines for Robot Grasping and Manipulation Pipelines</i><br>
+        <detail>Adam Norton</detail><br>
+        <detail><a href="src/file/poster/anorton.pdf">Poster</a></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i><br>
+        <detail>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</detail><br>
+        <detail><a href="src/file/paper/jcheng.pdf">Paper</a> | <a href="src/file/poster/jcheng.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>Enhancing Tactile-based Reinforcement Learning for Robotic Control</i><br>
+        <detail>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</detail><br>
+        <detail><a href="src/file/paper/emiller.pdf">Paper</a> | <a href="src/file/poster/emiller.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i><br>
+        <detail>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</detail><br>
+        <detail><a href="src/file/paper/maoyama.pdf">Paper</a> | <a href="src/file/poster/maoyama.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>DexRefine: Refine Human Motion to Physically Feasible Robotic Actions</i><br>
+        <detail>Hyesung Lee, Si-Hwan Heo, Sungwook Yang</detail><br>
+        <detail><a href="src/file/paper/hlee.pdf">Paper</a> | <a href="src/file/poster/hlee.pdf">Poster</a></detail>
+      </td>
     </tr>
     <tr>
       <td>
         <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i><br>
-        <detail>Sanghyun Hahn, Jonghyun Choi</detail>
+        <detail>Sanghyun Hahn, Jonghyun Choi</detail><br>
+        <detail><a href="src/file/paper/shahn.pdf">Paper</a> | <a href="src/file/poster/shahn.pdf">Poster</a></detail>
       </td>
-      <td></td>
     </tr>  
     <tr>
       <td>
-        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i><br>
-        <detail>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</detail>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
         <i>Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation</i><br>
-        <detail>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</detail>
+        <detail>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</detail><br>
+        <detail><a href="src/file/paper/ykim.pdf">Paper</a> | <a href="src/file/poster/ykim.pdf">Poster</a></detail>
       </td>
-      <td></td>
     </tr>    
-    <tr>
-      <td>
-        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i><br>
-        <detail>Hyosung Kim, Junhui Lee, Saekwang Nam</detail>
-      </td>
-      <td></td>
-    </tr>
     <tr class="hard_bottomline">
       <td>
-        <i>Enhancing Tactile-based Reinforcement Learning for Robotic Control</i><br>
-        <detail>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</detail>
+        <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i><br>
+        <detail>Hyosung Kim, Junhui Lee, Saekwang Nam</detail><br>
+        <detail><a href="src/file/paper/hkim.pdf">Paper</a> | <a href="src/file/poster/hkim.pdf">Poster</a></detail>
       </td>
-      <td></td>
     </tr>
   </tbody>
 </table>    
