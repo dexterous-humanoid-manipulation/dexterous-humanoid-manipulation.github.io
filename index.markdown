@@ -135,6 +135,11 @@ highlight {
   text-decoration: none;
   font-weight: 500;
 }
+spotlight {
+  color: #003300;
+  text-decoration: none;
+  font-weight: bold;
+}
 .section-container {
   position: relative;
   width: 100%;
@@ -467,14 +472,7 @@ tr.hard_topline td {
       <td>
         <i>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</i><br>
         <detail>Jiaheng Hu, Peter Stone, Roberto Martín-Martín</detail><br>
-        <detail><a href="src/file/paper/jhu.pdf">Paper</a> | <a href="src/file/poster/jhu.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <i>Multi-contact Optimization for Whole-body Dexterity</i><br>
-        <detail>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</detail><br>
-        <detail><a href="src/file/paper/vleve.pdf">Paper</a> | <a href="src/file/poster/vleve.pdf">Poster</a></detail>
+        <detail><a href="src/file/paper/jhu.pdf">Paper</a> | <a href="src/file/poster/jhu.pdf">Poster</a> | <spotlight>Spotlight Presentation</spotlight></detail>
       </td>
     </tr>
     <tr>
@@ -486,23 +484,9 @@ tr.hard_topline td {
     </tr>
     <tr>
       <td>
-        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i><br>
-        <detail>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</detail><br>
-        <detail><a href="src/file/paper/jcheng.pdf">Paper</a> | <a href="src/file/poster/jcheng.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <i>Enhancing Tactile-based Reinforcement Learning for Robotic Control</i><br>
         <detail>Elle Miller, Trevor McInroe, David Abel, Oisin Mac Aodha, Sethu Vijayakumar</detail><br>
-        <detail><a href="src/file/paper/emiller.pdf">Paper</a> | <a href="src/file/poster/emiller.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i><br>
-        <detail>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</detail><br>
-        <detail><a href="src/file/paper/maoyama.pdf">Paper</a> | <a href="src/file/poster/maoyama.pdf">Poster</a> | <highlight>Spotlight Presentation</highlight></detail>
+        <detail><a href="src/file/paper/emiller.pdf">Paper</a> | <a href="src/file/poster/emiller.pdf">Poster</a> | <spotlight>Spotlight Presentation</spotlight></detail>
       </td>
     </tr>
     <tr>
@@ -525,7 +509,28 @@ tr.hard_topline td {
         <detail>Yitaek Kim, Casper Hewson Rask, Christoffer Sloth</detail><br>
         <detail><a href="src/file/paper/ykim.pdf">Paper</a> | <a href="src/file/poster/ykim.pdf">Poster</a></detail>
       </td>
-    </tr>    
+    </tr>  
+    <tr>
+      <td>
+        <i>RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation</i><br>
+        <detail>Jin Cheng, Dongho Kang, Gabriele Fadini, Guanya Shi, Stelian Coros</detail><br>
+        <detail><a href="src/file/paper/jcheng.pdf">Paper</a> | <a href="src/file/poster/jcheng.pdf">Poster</a> | <spotlight>Spotlight Presentation</spotlight></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>Multi-contact Optimization for Whole-body Dexterity</i><br>
+        <detail>Victor Leve, Joao Moura, Sachiya Fujita, Tamon Miyake, Steve Tonneau Tonneau, Sethu Vijayakumar</detail><br>
+        <detail><a href="src/file/paper/vleve.pdf">Paper</a> | <a href="src/file/poster/vleve.pdf">Poster</a></detail>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <i>Few-Shot Learning of Tool-Use Skills with Proximity and Tactile Sensing</i><br>
+        <detail>Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita</detail><br>
+        <detail><a href="src/file/paper/maoyama.pdf">Paper</a> | <a href="src/file/poster/maoyama.pdf">Poster</a> | <spotlight>Spotlight Presentation</spotlight></detail>
+      </td>
+    </tr>  
     <tr class="hard_bottomline">
       <td>
         <i>Real-Time Multimodal Tactile Sensor with Visual and Auditory Feedback</i><br>
