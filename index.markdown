@@ -201,6 +201,7 @@ tr.hard_topline td {
         </h1>
         <h3> <a href="https://2025humanoids.org/"><b>2025 IEEE-RAS 24th International Conference on Humanoid Robots</b></a></h3>
         <h3>October 2, 2025 | COEX, Seoul, Korea | Room #211</h3>
+        <h3>Streaming: <a href="https://t.co/3oZHMm3XHl">https://t.co/3oZHMm3XHl</a></h3>
       </p>
     </td>
   </tr>
