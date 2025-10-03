@@ -581,7 +581,7 @@ tr.hard_topline td {
       <img class="profile" src="./src/figure/speakers/gshi.jpg">
       <p align=center>
       <a href="https://www.gshi.me">Guanya Shi</a><br>
-      CMU
+      CMU, Amazon
       </p>
     </td>
     <td width=150px> 
