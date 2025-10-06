@@ -282,7 +282,7 @@ tr.hard_topline td {
       <i>Perioperation: Sensoring Human Manipulation for<br>Dexterous Humanoid Manipulation</i>
       </td>
       <td>Hao-Shu Fang</td>
-      <td><a href="https://youtu.be/df6vAWyg4j8?si=6n1ImZOYaJIJSJ3r"><i class="fa-solid fa-circle-play"></i></a></td>
+      <td><a href="https://youtu.be/df6vAWyg4j8?si=6n1ImZOYaJIJSJ3r"><i class="fa-solid fa-circle-play"> rec</i></a></td>
     </tr>
     <tr>
       <td>9:45 - 10:20</td>
@@ -291,7 +291,7 @@ tr.hard_topline td {
       </td>
       <td>Jaeheung Park</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"></i></a></td> -->
+      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"> rec</i></a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
@@ -320,7 +320,7 @@ tr.hard_topline td {
       </td>
       <td>Guanya Shi</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/T74UYAv96L8?si=mpN4_rybDQ-bcZgc"><i class="fa-solid fa-circle-play"></i></a></td> -->
+      <!-- <td><a href="https://youtu.be/T74UYAv96L8?si=mpN4_rybDQ-bcZgc"><i class="fa-solid fa-circle-play"></i> rec</a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>11:45 - 12:20</td>
@@ -329,7 +329,7 @@ tr.hard_topline td {
       </td>
       <td>Christian Ott</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/cqT8macT-QA?si=G9VlJVEKwSM_NRz0"><i class="fa-solid fa-circle-play"></i></a></td> -->
+      <!-- <td><a href="https://youtu.be/cqT8macT-QA?si=G9VlJVEKwSM_NRz0"><i class="fa-solid fa-circle-play"></i> rec</a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>12:20 - 13:25</td>
@@ -344,7 +344,7 @@ tr.hard_topline td {
       </td>
       <td>Jonathan Hurst</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/67r1tLBmYoU?si=0R7SO0CYcoZ8WqXz"><i class="fa-solid fa-circle-play"></i></a></td> -->
+      <!-- <td><a href="https://youtu.be/67r1tLBmYoU?si=0R7SO0CYcoZ8WqXz"><i class="fa-solid fa-circle-play"></i> rec</a></td> -->
     </tr>
     <tr>
       <td>14:00 - 14:35</td>
@@ -352,7 +352,7 @@ tr.hard_topline td {
       <i>Large Behavior Models for Robot Manipulation:<br>What Works and What Matters</i>
       </td>
       <td>Benjamin Burchfiel</td>
-      <td><a href="https://youtu.be/JEEQwD9PLVg?si=mo-XUCJKabQjzkyl"><i class="fa-solid fa-circle-play"></i></a></td>
+      <td><a href="https://youtu.be/JEEQwD9PLVg?si=mo-XUCJKabQjzkyl"><i class="fa-solid fa-circle-play"></i> rec</a></td>
     </tr>
     <tr class="hard_bottomline">
       <td>14:35 - 15:10</td>
@@ -361,7 +361,7 @@ tr.hard_topline td {
       </td>
       <td>Pat Marion</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/oa1FkYtJwiA?si=CdYZkWERL9xNQk1y"><i class="fa-solid fa-circle-play"></i></a></td> -->
+      <!-- <td><a href="https://youtu.be/oa1FkYtJwiA?si=CdYZkWERL9xNQk1y"><i class="fa-solid fa-circle-play"></i> rec</a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>15:10 - 15:40</td>
