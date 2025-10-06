@@ -274,6 +274,7 @@ tr.hard_topline td {
       <td>9:00 - 9:10</td>
       <td>Opening</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>9:10 - 9:45</td>
@@ -281,6 +282,7 @@ tr.hard_topline td {
       <i>Perioperation: Sensoring Human Manipulation for<br>Dexterous Humanoid Manipulation</i>
       </td>
       <td>Hao-Shu Fang</td>
+      <td><a href="https://youtu.be/df6vAWyg4j8?si=6n1ImZOYaJIJSJ3r"><i class="fa-regular fa-clapperboard-play"></i></a></td>
     </tr>
     <tr>
       <td>9:45 - 10:20</td>
@@ -288,6 +290,8 @@ tr.hard_topline td {
       <i>Robotic Avatar System for Dexterous Manipulation and<br>Learning</i>
       </td>
       <td>Jaeheung Park</td>
+      <td></td>
+      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-regular fa-clapperboard-play"></i></a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
@@ -301,10 +305,12 @@ tr.hard_topline td {
         <detail>Jiaheng Hu</detail><br>
         <detail>Elle Miller</detail>
       </td>
+      <td></td>
     </tr>
     <tr class="hard_bottomline">
       <td>10:40 - 11:10</td>
       <td>Coffee Break and Poster Session</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -313,6 +319,8 @@ tr.hard_topline td {
       <i>Real2Sim2Real Learning for Humanoid Dexterous<br>Loco-Manipulation and Manipulation Skills</i>
       </td>
       <td>Guanya Shi</td>
+      <td></td>
+      <!-- <td><a href="https://youtu.be/T74UYAv96L8?si=mpN4_rybDQ-bcZgc"><i class="fa-regular fa-clapperboard-play"></i></a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>11:45 - 12:20</td>
@@ -320,11 +328,13 @@ tr.hard_topline td {
       <i>Impact Analysis for Whole Body Manipulation Tasks<br>with Controlled Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
+      <td></td>
     </tr>
     <tr class="hard_bottomline">
       <td>12:20 - 13:25</td>
       <td>Lunch Break and Demos</td>
       <td>RobotEra</td>
+      <td></td>
     </tr>
     <tr>
       <td>13:25 - 14:00</td>
@@ -332,6 +342,8 @@ tr.hard_topline td {
       <i>Manipulation != Locomotion,<br>So How Do We Achieve Locomanipulation?</i>
       </td>
       <td>Jonathan Hurst</td>
+      <td></td>
+      <!-- <td><a href="https://youtu.be/67r1tLBmYoU?si=0R7SO0CYcoZ8WqXz"><i class="fa-regular fa-clapperboard-play"></i></a></td> -->
     </tr>
     <tr>
       <td>14:00 - 14:35</td>
@@ -339,6 +351,7 @@ tr.hard_topline td {
       <i>Large Behavior Models for Robot Manipulation:<br>What Works and What Matters</i>
       </td>
       <td>Benjamin Burchfiel</td>
+      <td><a href="https://youtu.be/JEEQwD9PLVg?si=mo-XUCJKabQjzkyl"><i class="fa-regular fa-clapperboard-play"></i></a></td>
     </tr>
     <tr class="hard_bottomline">
       <td>14:35 - 15:10</td>
@@ -346,10 +359,13 @@ tr.hard_topline td {
       <i>Developing Large Behavior Models on Atlas</i>
       </td>
       <td>Pat Marion</td>
+      <td></td>
+      <!-- <td><a href="https://youtu.be/oa1FkYtJwiA?si=CdYZkWERL9xNQk1y"><i class="fa-regular fa-clapperboard-play"></i></a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>15:10 - 15:40</td>
       <td>Coffee Break and Poster Session</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -363,15 +379,18 @@ tr.hard_topline td {
         <detail>Jin Cheng</detail><br>
         <detail>Marina Y. Aoyama</detail>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>16:00 - 16:50</td>
       <td>Panel Discussion</td>
       <td>Luis Sentis<br>Jonathan Hurst<br>Benjamin Burchfiel<br>Pat Marion</td>
+      <td></td>
     </tr>
     <tr class="hard_bottomline">
       <td>16:50 - 17:00</td>
       <td>Closing</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
