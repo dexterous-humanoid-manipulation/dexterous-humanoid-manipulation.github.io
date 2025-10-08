@@ -282,7 +282,7 @@ tr.hard_topline td {
       <i>Perioperation: Sensoring Human Manipulation for<br>Dexterous Humanoid Manipulation</i>
       </td>
       <td>Hao-Shu Fang</td>
-      <td><a href="https://youtu.be/df6vAWyg4j8?si=6n1ImZOYaJIJSJ3r"><i class="fa-solid fa-circle-play"></i>REC</a></td>
+      <td><a href="https://youtu.be/df6vAWyg4j8?si=6n1ImZOYaJIJSJ3r"><i class="fa-solid fa-circle-play"></i> REC</a></td>
     </tr>
     <tr>
       <td>9:45 - 10:20</td>
@@ -291,7 +291,7 @@ tr.hard_topline td {
       </td>
       <td>Jaeheung Park</td>
       <td></td>
-      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"></i>REC</a></td> -->
+      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"></i> REC</a></td> -->
     </tr>
     <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
