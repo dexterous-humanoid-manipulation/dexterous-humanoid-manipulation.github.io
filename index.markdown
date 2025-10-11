@@ -290,8 +290,7 @@ tr.hard_topline td {
       <i>Robotic Avatar System for Dexterous Manipulation and<br>Learning</i>
       </td>
       <td>Jaeheung Park</td>
-      <td></td>
-      <!-- <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"></i> REC</a></td> -->
+      <td><a href="https://youtu.be/ZDp85sCCHKM?si=5_8CZHNzEEEadI8f"><i class="fa-solid fa-circle-play"></i> REC</a></td>
     </tr>
     <tr class="hard_bottomline">
       <td>10:20 - 10:40</td>
@@ -328,8 +327,7 @@ tr.hard_topline td {
       <i>Impact Analysis for Whole Body Manipulation Tasks<br>with Controlled Contact Transitions</i>
       </td>
       <td>Christian Ott</td>
-      <td></td>
-      <!-- <td><a href="https://youtu.be/cqT8macT-QA?si=G9VlJVEKwSM_NRz0"><i class="fa-solid fa-circle-play"></i> REC</a></td> -->
+      <td><a href="https://youtu.be/cqT8macT-QA?si=G9VlJVEKwSM_NRz0"><i class="fa-solid fa-circle-play"></i> REC</a></td>
     </tr>
     <tr class="hard_bottomline">
       <td>12:20 - 13:25</td>
