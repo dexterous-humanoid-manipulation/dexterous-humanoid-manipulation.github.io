@@ -341,8 +341,7 @@ tr.hard_topline td {
       <i>Manipulation != Locomotion,<br>So How Do We Achieve Locomanipulation?</i>
       </td>
       <td>Jonathan Hurst</td>
-      <td></td>
-      <!-- <td><a href="https://youtu.be/67r1tLBmYoU?si=0R7SO0CYcoZ8WqXz"><i class="fa-solid fa-circle-play"></i> REC</a></td> -->
+      <td><a href="https://youtu.be/67r1tLBmYoU?si=0R7SO0CYcoZ8WqXz"><i class="fa-solid fa-circle-play"></i> REC</a></td>
     </tr>
     <tr>
       <td>14:00 - 14:35</td>
