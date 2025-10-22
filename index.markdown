@@ -202,6 +202,7 @@ tr.hard_topline td {
         <h3> <a href="https://2025humanoids.org/"><b>2025 IEEE-RAS 24th International Conference on Humanoid Robots</b></a></h3>
         <h3>October 2, 2025 | COEX, Seoul, Korea | Room #211</h3>
         <!-- <h3>Streaming: <a href="https://tinyurl.com/4arhyhkt">https://tinyurl.com/4arhyhkt</a></h3> -->
+        <h3>Recordings: <a href="https://tinyurl.com/mvjknfcz">https://tinyurl.com/mvjknfcz</a></h3>
       </p>
     </td>
   </tr>
@@ -318,8 +319,7 @@ tr.hard_topline td {
       <i>Real2Sim2Real Learning for Humanoid Dexterous<br>Loco-Manipulation and Manipulation Skills</i>
       </td>
       <td>Guanya Shi</td>
-      <td></td>
-      <!-- <td><a href="https://youtu.be/T74UYAv96L8?si=mpN4_rybDQ-bcZgc"><i class="fa-solid fa-circle-play"></i> REC</a></td> -->
+      <td><a href="https://youtu.be/T74UYAv96L8?si=mpN4_rybDQ-bcZgc"><i class="fa-solid fa-circle-play"></i> REC</a></td>
     </tr>
     <tr class="hard_bottomline">
       <td>11:45 - 12:20</td>
