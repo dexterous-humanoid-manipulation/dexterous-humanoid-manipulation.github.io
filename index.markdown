@@ -517,7 +517,7 @@ tr.hard_topline td {
       <td>
         <i>Action Chunking Proximal Policy Optimization for Universal Dexterous Grasping</i><br>
         <detail>Sanghyun Hahn, Jonghyun Choi</detail><br>
-        <detail><a href="src/file/paper/shahn.pdf">Paper</a> | <a href="src/file/poster/shahn.pdf">Poster</a></detail>
+        <detail><a href="src/file/poster/shahn.pdf">Poster</a></detail>
       </td>
     </tr>  
     <tr>
